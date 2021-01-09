@@ -11,4 +11,4 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+> We are trying to put together documentations of software development toolkits that aren't very well documented online. We hope this blog makes a difference in your learning today.

@@ -2,8 +2,8 @@
 layout: post
 title:  "Securing application properties with jasypt spring boot maven java intellij macos"
 date:   2020-12-15 01:35:00 +0800
-categories: [Backend-development, Java, Jasypt, Encryption, Spring-boot]
-tags: [Java, Backend-development, Intellij, Machine learning, pytorch, macOS, Jaspyt, Encryption, Spring-boot]
+categories: [Backend, Java, Jasypt, Encryption, SpringBoot]
+tags: [Java, BackendDevelopment, Intellij, Machine learning, pytorch, macOS, Jaspyt, Encryption, SpringBoot]
 ---
 ### Who is this post for ?
 

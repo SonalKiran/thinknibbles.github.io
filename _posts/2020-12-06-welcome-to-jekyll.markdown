@@ -2,7 +2,8 @@
 layout: post
 title:  "Create your first Hello World iOS App"
 date:   2020-12-07 00:34:42 +0800
-category: iOS
+categories: [iOS, Mobile-development, Objective-C]
+tags: [iOS, Objective-C]
 ---
 This is a very straight forward and clean post to help fellow developers to successfully install and run their first iOS mobile app. 
 

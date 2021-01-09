@@ -3,10 +3,12 @@ layout: post
 title:  "Use PyTorch machine learning framework in Java using Intellij and maven on MacOS"
 date:   2020-12-09 01:35:00 +0800
 category: backend
+categories: [Backend-development, Java]
+tags: [Java, Backend-development, Intellij, Machine learning, pytorch, macOS]
 ---
 ### Who is this post for ?
 
-Software developers / machine learning engineers / data scients looking to get a pytoch model loaded into their java program. 
+Software developers / machine learning engineers / data scients looking to get a pytorch model loaded into their java program. 
 
 ### Tools this post will be using : 
 

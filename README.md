@@ -26,16 +26,3 @@
   ```bundle exec jekyll serve --livereload```
 
 - This will create a jekyll server locally and allow you to access the github pages on http://localhost:4000/
-
-
-
-## How to add your portfolio / CV to about page
-
-- Export your current CV / resume to an HTML format
-- Rename this html file with your full name
-  - sonal_kiran_hansra.html
-  - aman_singh_bhandari.html
-  - siddharth_mudgal.html
-- Copy this html file to portfolios folder
-- Hyperlink on the about page should now redirect and display your html file
-- **Additional** if you wish to use custom file names, navigate to about.markdown and edit the hyperlink against your name

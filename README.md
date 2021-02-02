@@ -6,6 +6,7 @@
 ## Pre - requisites
 
 - Refer to [this page](https://jekyllrb.com/docs/installation/) for installing pre requisites
+- Run the following command from the root folder ```bundle install```
 
 ## How to add posts
 
